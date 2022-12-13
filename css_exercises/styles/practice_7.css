@@ -1,0 +1,26 @@
+div {
+  height: auto;
+  display: block;
+  border: 5px solid;
+  padding: 32px;
+}
+
+.one {
+  margin: 12px;
+  border-color: blue;
+  background-color: pink;
+}
+
+.two {
+  border-color: purple;
+  background-color: cyan;
+  padding: 0px;
+}
+
+.three {
+  width: 250px;
+  margin-left: auto;
+  margin-top: 48px;
+  border-color: brown;
+  background-color: tan;
+}
