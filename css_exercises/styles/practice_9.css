@@ -1,0 +1,21 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid;
+  font-weight: bold;
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+  border-color: darkblue;
+}
+
+.box {
+  width: 125px;
+  height: 125px;
+  background-color: red;
+  border-color: darkred;
+}

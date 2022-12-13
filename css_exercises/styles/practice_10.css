@@ -1,0 +1,27 @@
+div, ul, li, a {
+  display: flex;
+  font-weight: bolder;
+}
+
+ul {
+  gap: 10px;
+}
+
+.header {
+  background-color: papayawhip;
+  justify-content: space-between;
+  align-items: center; 
+}
+
+.logo {
+  background-color: white;
+  color: tomato;
+  font-size: larger;
+  padding: 8px;
+}
+
+a {
+  background-color: white;
+  padding: 4px;
+  text-decoration: none;
+}
